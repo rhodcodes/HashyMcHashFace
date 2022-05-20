@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashyMcHashFace.Core", "HashyMcHashFace.Core\HashyMcHashFace.Core.csproj", "{8AE3AC80-DC2D-4BB4-8DE8-093BD29B5D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AE3AC80-DC2D-4BB4-8DE8-093BD29B5D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE3AC80-DC2D-4BB4-8DE8-093BD29B5D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE3AC80-DC2D-4BB4-8DE8-093BD29B5D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE3AC80-DC2D-4BB4-8DE8-093BD29B5D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9854475C-7183-46A7-88E2-A4F787B7E4A7}
+	EndGlobalSection
+EndGlobal
